@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - pos
+  - Enermy
+  - Rocket
+  - MetalBullet
+  - NormalBullet
+  - Pot
+  - GameManager
+  - Turret
+  - Tower
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Enermy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Enermy
+    uniqueID: 1183529523
+    locked: 0
+  - name: Turret
+    uniqueID: 3914043539
+    locked: 0
+  - name: plane
+    uniqueID: 4052968983
+    locked: 0
+  - name: UI
+    uniqueID: 3493925641
+    locked: 0

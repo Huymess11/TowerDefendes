@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 0c797008f9a93fa40be908379075c19a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - War Elite DEMO
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: da7202f1ebd05684592d1b4a5bb417b1, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

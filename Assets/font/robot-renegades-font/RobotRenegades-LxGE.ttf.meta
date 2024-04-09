@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: b7f38bf58a70d6d41aeecfeae2eacc89
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Robot Renegades
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 35db7b4e9e0ddb24e8266613b7fd7847, type: 3}
+  - {fileID: 12800000, guid: 83ae202ff5a28744697a4e62de6d8938, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
